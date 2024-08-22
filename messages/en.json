@@ -1,8 +1,8 @@
 {
 	"Global": {
 		"metadata": {
-			"title": "Your Next Store - Demo",
-			"description": "A Next.js boilerplate for building your online store instantly: simple, quick, powerful."
+			"title": "PurrfectionPrints",
+			"description": "A store of all prints you can think of!"
 		},
 		"notFound": {
 			"title": "Not found",
@@ -67,7 +67,7 @@
 			"description": "Sorry, we couldn't find any results that match your search query. Please try refining your search."
 		},
 		"metadata": {
-			"title": "Search: {query} · Your Next Store"
+			"title": "Search: {query} · PurrfectionPrints"
 		},
 		"page": {
 			"title": "Searching for \"{query}\""
@@ -78,7 +78,7 @@
 	},
 	"/products": {
 		"metadata": {
-			"title": "All Products · Your Next Store"
+			"title": "All Products · PurrfectionPrints"
 		},
 		"page": {
 			"title": "All Products"
@@ -86,7 +86,7 @@
 	},
 	"/product": {
 		"metadata": {
-			"title": "{productName} · Your Next Store"
+			"title": "{productName} · PurrfectionPrints"
 		},
 		"page": {
 			"allProducts": "All products",
@@ -97,7 +97,7 @@
 	},
 	"/category": {
 		"metadata": {
-			"title": "{categoryName} Category · Your Next Store"
+			"title": "{categoryName} Category · PurrfectionPrints"
 		},
 		"page": {
 			"title": "Category: {categoryName}"
@@ -113,7 +113,7 @@
 			"goToPaymentButton": "Go to payment"
 		},
 		"metadata": {
-			"title": "Shopping Cart · Your Next Store"
+			"title": "Shopping Cart · PurrfectionPrints"
 		},
 		"page": {
 			"title": "Your cart",
@@ -161,7 +161,7 @@
 	},
 	"/order": {
 		"metadata": {
-			"title": "Order Confirmation · Your Next Store"
+			"title": "Order Confirmation · PurrfectionPrints"
 		},
 		"page": {
 			"title": "Order Confirmation",

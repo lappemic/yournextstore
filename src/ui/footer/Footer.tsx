@@ -59,6 +59,13 @@ export async function Footer() {
 							<TwitterIcon className="h-4 w-4" /> @typeofweb
 							<span className="sr-only">Twitter</span>
 						</YnsLink>
+						<YnsLink
+							className="inline-flex items-center gap-1 transition-colors hover:text-neutral-700"
+							href="https://x.com/mischeiwiller"
+						>
+							<TwitterIcon className="h-4 w-4" /> @mischeiwiller
+							<span className="sr-only">Twitter</span>
+						</YnsLink>
 					</div>
 				)}
 			</div>

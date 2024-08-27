@@ -12,7 +12,7 @@ export const Nav = async () => {
 		<header className="border-b py-4">
 			<div className="sm:items-centerm mx-auto flex max-w-7xl flex-col items-start gap-2 px-4 sm:flex-row sm:flex-wrap sm:items-center sm:px-6 md:flex-nowrap lg:px-8">
 				<YnsLink href="/">
-					<SeoH1 className="-mt-0.5 whitespace-nowrap text-xl font-bold">{config.nav.title}</SeoH1>
+					<SeoH1 className="-mt-0.5 whitespace-nowrap text-xl font-bold">NAVTITLE</SeoH1>
 				</YnsLink>
 
 				<div className="sm:mr-auto">
